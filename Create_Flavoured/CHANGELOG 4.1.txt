@@ -1,0 +1,9 @@
+- added Spice of Life Sweet Potato Edition.
+- added Radon.
+- added Personality instead of GoProne.
+- fixed pulse redstone relay model.
+- tweaked rope pulley recipe.
+- renamed duplicate turn table to rotator.
+
+Always backup your world before updating.
+Please report any problem or suggestion.
